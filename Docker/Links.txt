@@ -1,0 +1,5 @@
+https://www.youtube.com/watch?v=wi-MGFhrad0&list=PLhW3qG5bs-L99pQsZ74f-LC-tOEsBp2rK
+https://docs.docker.com/engine/reference/commandline/export/
+https://medium.com/better-programming/docker-tips-about-the-build-context-dbc76505e178
+https://runnable.com/docker/python/dockerize-your-flask-application
+https://www.fullstackpython.com/docker.html
